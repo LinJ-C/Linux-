@@ -1,0 +1,11 @@
+git add
+git commit
+git log
+git reflog
+git push origin master
+git reset --hard xxx
+git status
+git checkout -- readme.txt
+git rm 
+$ git checkout -- test.txt
+ git remote add origin git@github.com:xxx人/xxx库.git
